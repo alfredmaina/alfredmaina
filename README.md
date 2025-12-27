@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfredmaina
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning javascript...
-- 💞️ I’m looking to collaborate on javascript...
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me alfredmaina2013@gmail.com...
 
 <!---
